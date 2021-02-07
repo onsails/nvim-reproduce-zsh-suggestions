@@ -1,0 +1,1 @@
+nvim -u init.vim prosto/src/lib.rs

@@ -1,0 +1,12 @@
+[submodule "pack/default/opt/lsp-status-nvim"]
+	path = pack/default/opt/lsp-status-nvim
+	url = https://github.com/nvim-lua/lsp-status.nvim.git
+[submodule "pack/default/opt/lualine-nvim"]
+	path = pack/default/opt/lualine-nvim
+	url = https://github.com/hoob3rt/lualine.nvim.git
+[submodule "pack/default/opt/nvim-lspconfig"]
+	path = pack/default/opt/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "prosto"]
+	path = prosto
+	url = https://github.com/onsails/prosto.git
