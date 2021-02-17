@@ -1,3 +1,4 @@
 git submodule init
 git submodule update
-nvim -u init.vim prosto/src/lib.rs
+nvim -u init.vim
+:terminal
